@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/close.svg</file>
+        <file>resource/connect.svg</file>
+        <file>resource/database.svg</file>
+        <file>resource/newconnect.svg</file>
+        <file>resource/query.svg</file>
+        <file>resource/table.svg</file>
+        <file>resource/run.svg</file>
+    </qresource>
+</RCC>
